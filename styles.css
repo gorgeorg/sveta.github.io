@@ -1,0 +1,42 @@
+body{
+	background-color: #E5D8D2; 
+	margin-top: 0;
+}
+h1 {
+	color: #E5D8D2;
+	height: 50px;
+	margin: 20px;
+	margin-top: 20px;
+}
+
+img {
+	margin: 20px;
+	height: 200px;
+	padding: 20px;
+	
+}
+
+a{
+	color: #C98276;
+	text-decoration: none;
+}
+ a:hover {
+    color:#E35D6A; 
+	text-decoration: underline;
+   } 
+
+h3 {
+	color: #984a4a;
+}
+button {
+	margin-bottom: 20px;
+	border-width: 5px;
+	border: ridge;
+	background: #EEC1AD;
+	font-size: 15px;
+}
+header {
+	background: #5A1818;
+	height: 80px;
+	
+}
